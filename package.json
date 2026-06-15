@@ -1,0 +1,1 @@
+{"name":"govo-api","version":"0.2.0","type":"commonjs","scripts":{"start":"node src/server.js","check":"find src -name '*.js' -exec node --check {} \\;"},"dependencies":{"express":"^4.18.3","cors":"^2.8.5","zod":"^3.23.8","dotenv":"^16.4.5"}}
